@@ -1,5 +1,5 @@
-import { Given, When, Then } from "@wdio/cucumber-framework";
-import { getWebElement } from "../pageobjects/helpers";
+import { When, Then } from "@wdio/cucumber-framework";
+import { getWebElement } from "../../helpers/helpers";
 import { MainPage } from "../pageobjects/MainPage";
 import { ResultPage } from "../pageobjects/ResultPage";
 

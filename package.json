@@ -14,6 +14,6 @@
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.ts",
-        "wdio:tag": "npx wdio wdio.conf.ts --cucumberOpts.tagExpression='@Rating'"
+        "wdio:tag": "npx wdio wdio.conf.ts --cucumberOpts.tagExpression='@Input'"
     }
 }
