@@ -2,9 +2,10 @@ import { When, Then } from "@wdio/cucumber-framework";
 import { getWebElement } from "../../helpers/helpers";
 import { MainPage } from "../pageobjects/MainPage";
 import { ResultPage } from "../pageobjects/ResultPage";
+import { gameOfThrones } from "../../constants/titles";
 
 When(/^I enter "Игра престолов" in input field$/, async () => {
-    await (await getWebElement(MainPage.searchInput)).setValue("Игра престолов");
+    await (await getWebElement(MainPage.searchInput)).setValue(gameOfThrones);
 });
 When(/^I click on the link$/, async () => {
     await (await getWebElement(MainPage.searchButton)).click();
