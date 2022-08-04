@@ -1,0 +1,14 @@
+03/08/2022] [16:57:59] [DEBUG] - I enter Игра престолов in input field
+03/08/2022] [16:58:00] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+03/08/2022] [16:58:04] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+03/08/2022] [17:01:41] [DEBUG] - I enter Игра престолов in input field
+03/08/2022] [17:01:42] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+03/08/2022] [17:01:47] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+03/08/2022] [17:06:09] [DEBUG] - I enter Игра престолов in input field
+03/08/2022] [17:06:09] [ERROR] - I enter Игра престолов in input field
+04/08/2022] [11:22:27] [DEBUG] - I enter Игра престолов in input field
+04/08/2022] [11:22:27] [ERROR] - I enter Игра престолов in input field
+04/08/2022] [11:22:29] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+04/08/2022] [11:22:29] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+04/08/2022] [11:22:44] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+04/08/2022] [11:22:44] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
